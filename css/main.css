@@ -412,7 +412,11 @@ a.more-link,
 @media screen and (max-device-width: 768px) {
 .header{
         z-index: 200; margin: 0 auto;padding: 2em; width: 100%; text-align: center; -webkit-backface-visibility: hidden;display:inline-block;
+        width: 100%; padding: 1em 1em .2em 1em;
     }
+    .header img {
+        max-height: 0px;
+	}
    .header h1 {
  	margin: 0 0 0 0; padding: 10px 0 0 0;0; font-size: 3.5em; font-weight: 100; line-height: 1; -webkit-backface-visibility: hidden;;display:inline-block;
 		}
@@ -2536,12 +2540,6 @@ a.more-link:hover {
 	.content {
 		padding: 1em;
 		}
-	.header {
-	 	width: 100%; padding: 1em 1em .2em 1em;
-		}
-		.header img {
-	 		max-height: 120px;
-			}
 	.single-page-layout .vs-nav {
 	 	margin-top: 0;
 		}
