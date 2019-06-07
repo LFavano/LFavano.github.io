@@ -635,10 +635,10 @@ a.more-link,
 
 @media screen and (max-width: 600px) {
     .classic-layout .vs-nav {
- 	font-size: 0.8em;
+ 	font-size: 0.75em;
 	}
     .classic-layout .vs-nav li a{
-        padding:0 1em 0 1em;
+        padding:0 0.9em 0 0.9em;
 	}
 }
 
