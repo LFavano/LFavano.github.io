@@ -409,12 +409,12 @@ a.more-link,
 	.header p {
  	font-size: 1em; margin: .1em 0 .6em; display: absolute; font-style: italic; padding: 6px 10px; background: #FAF46A; color: #345; color: rgba(0,0,0,.7); border-radius: 4px; line-height: 1; 
 		}
-@media screen and (max-device-width: 900px) {
+@media screen and (max-device-width: 768px) {
 .header{
         z-index: 200; margin: 0 auto;padding: 2em; width: 100%; text-align: center; -webkit-backface-visibility: hidden;display:inline-block;
     }
    .header h1 {
- 	margin: 0 0 0 0; padding: 10px 0 0 0;0; font-size: 3.5em; font-weight: 100; line-height: 1; -webkit-backface-visibility: hidden;;display:inline-block;
+ 	margin: 0 0 0 0; padding: 1000px 0 0 0;0; font-size: 3.5em; font-weight: 100; line-height: 1; -webkit-backface-visibility: hidden;;display:inline-block;
 		}
     .header h2 {
  	margin: 0 0 0 0 ; padding: 0 0 0 0; font-weight: 300;display:inline-block;position: relative; top:0px; left:0px; font-size: 1.5em;  line-height: 1.4; -webkit-backface-visibility: hidden; width:auto;
