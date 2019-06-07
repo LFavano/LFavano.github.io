@@ -415,7 +415,7 @@ a.more-link,
         width: 100%; padding: 1em 1em .2em 1em;
     }
     .header img {
-        max-height: 0px;
+        max-height: 100px;
 	}
    .header h1 {
  	margin: 0 0 0 0; padding: 10px 0 0 0;0; font-size: 3.5em; font-weight: 100; line-height: 1; -webkit-backface-visibility: hidden;;display:inline-block;
