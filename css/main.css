@@ -409,7 +409,7 @@ a.more-link,
 	.header p {
  	font-size: 1em; margin: .1em 0 .6em; display: absolute; font-style: italic; padding: 6px 10px; background: #FAF46A; color: #345; color: rgba(0,0,0,.7); border-radius: 4px; line-height: 1; 
 		}
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 900px) {
 .header{
         z-index: 200; margin: 0 auto;padding: 2em; width: 100%; text-align: center; -webkit-backface-visibility: hidden;display:inline-block;
     }
