@@ -401,7 +401,7 @@ a.more-link,
  	margin: 0 0 0 0; padding: 0 60px 0 60px; font-size: 4.9em; font-weight: 100; line-height: 0.5; -webkit-backface-visibility: hidden;display:inline-block;position: relative; top:-10px;
 		}
 	.header img {
- 	max-height: 160px; border-radius: 50%;  margin: 0 0 20px 0 ;padding: 0 0 0 0;  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ 	max-height: 160px; border-radius: 50%;  margin: 5px 0 15px 0 ;padding: 0 0 0 0;  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 		}
     .header h2 {
  	margin: 0 0 0 0 ; padding: 0 150px 0 150px; font-weight: 300;display:inline-block; position: relative; top:-55px; left:100px; font-size: 1.9em;  line-height: 0.5; -webkit-backface-visibility: hidden; width:auto;
@@ -414,7 +414,7 @@ a.more-link,
         z-index: 200; margin: 0 auto;padding: 2em; width: 100%; text-align: center; -webkit-backface-visibility: hidden;display:inline-block;
     }
    .header h1 {
- 	margin: 0 0 0 0; padding: 0px 0 0 0;0; font-size: 3em; font-weight: 100; line-height: 1; -webkit-backface-visibility: hidden;;display:inline-block;
+ 	margin: 0 0 0 0; padding: 10px 0 0 0;0; font-size: 3em; font-weight: 100; line-height: 1; -webkit-backface-visibility: hidden;;display:inline-block;
 		}
     .header h2 {
  	margin: 0 0 0 0 ; padding: 0 0 0 0; font-weight: 300;display:inline-block;position: relative; top:0px; left:0px; font-size: 1.8em;  line-height: 1.4; -webkit-backface-visibility: hidden; width:auto;
@@ -632,6 +632,15 @@ a.more-link,
     .classic-layout .vs-nav li.current_page_item a{
  	  color: #345;
 	}
+
+@media screen and (max-width: 600px) {
+    .classic-layout .vs-nav {
+ 	font-size: 0.8em;
+	}
+    .classic-layout .vs-nav li a{
+        padding:0 1em 0 1em;
+	}
+}
 
 	/* Classic Layout Nav Active Item */
 
