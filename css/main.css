@@ -381,8 +381,10 @@ a.more-link,
 	}
 .content {
 	position: relative; padding: 1em 2em; margin: auto; width: 100%; text-align: left;
-    
 	}
+
+
+
 .readable-content {
 	width: 90%; max-width: 740px; margin-left: auto; margin-right: auto;
 	}
@@ -419,23 +421,21 @@ a.more-link,
 @media screen and (max-device-width: 600px) {
 .header{
         z-index: 200; margin: 0 auto;padding: 2em; width: 100%;  -webkit-backface-visibility: hidden
-        width: 100%; padding: 0em 1em .2em 0em;  display: -webkit-flex; display: flex;    -webkit-flex-flow: column;flex-flow: column;flex-direction: column;
+        width: 100%; padding: 0em 0em 0 0em;  display: -webkit-flex; display: flex;    -webkit-flex-flow: column;flex-flow: column;flex-direction: column;
     }
     .header img {
-        margin: 0 0 0 0; max-height: 100px; -webkit-order: 3; max-width: 100px; order: 3;align-content: center; align-self: center;
+        margin: -15px 0 0 0; max-height: 100px; -webkit-order: 1; max-width: 100px; order: 1;align-content: center; align-self: center;
 	}
    .header h1 {
- 	margin: 0 0 0 0; padding: 0 0 0 0;0; font-size: 3.5em; font-weight: 100; line-height: 1; -webkit-backface-visibility: hidden;-webkit-order: 1; order: 1;
+ 	margin: 0 0 0 0; padding: 15px 0 0 0;0; font-size: 3.5em; font-weight: 100; line-height: 1; -webkit-backface-visibility: hidden;-webkit-order: 2; order: 2;
 		}
     .header h2 {
- 	margin: 0 0 0 0 ; padding: 0 0 20px 0; font-weight: 300;display:inline-block;position: relative; top:0px; left:0px; font-size: 1.65em;  line-height: 1.4; -webkit-backface-visibility: hidden; width:auto;-webkit-order: 2; order: 2;
+ 	margin: 0 0 0 0 ; padding: 0 0 20px 0; font-weight: 300;display:inline-block;position: relative; top:0px; left:0px; font-size: 1.65em;  line-height: 1.4; -webkit-backface-visibility: hidden; width:auto;-webkit-order: 3; order: 3;
 		}
     .vs-nav {
         -webkit-order: 4; order: 4;
     }
-    
-   }
-
+}
 /* single page menu  */
 .single-page-layout .vs-nav li a {
  	letter-spacing: -1px; margin: 0 4px; padding: 0;
@@ -2549,7 +2549,7 @@ a.more-link:hover {
 
 	/* MOBILE LAYOUT : more space for content */
 	.content {
-		padding: 1em;
+		padding: 0.5em 1em;
 		}
 	.single-page-layout .vs-nav {
 	 	margin-top: 0;
