@@ -865,6 +865,13 @@ h2 i[class^="icon-"], h2 i[class*=" icon-"], h2 i.fa {
     -webkit-filter: grayscale(0%);
 	opacity: 1; 
 	}
+.client p2 {
+ 	margin: 0 0 0 0;
+    font-family: Raleway;
+    font-weight: 300;
+    font-size: 14.4px;
+     color: #777777;
+	}
 
 /* TIMELINE */
 		

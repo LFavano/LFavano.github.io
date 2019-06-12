@@ -9,52 +9,62 @@
 
 <url>
   <loc>http://lucafavano.com/</loc>
-  <lastmod>2019-06-09T21:18:46+00:00</lastmod>
+  <lastmod>2019-06-12T17:45:47+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://lucafavano.com/portfolio-item-01.html</loc>
-  <lastmod>2019-06-09T21:18:46+00:00</lastmod>
+  <loc>https://lucafavano.com/#/about</loc>
+  <lastmod>2019-06-12T17:45:47+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://lucafavano.com/#/resume</loc>
+  <lastmod>2019-06-12T17:45:47+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://lucafavano.com/#/portfolio</loc>
+  <lastmod>2019-06-12T17:45:47+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>http://lucafavano.com/sportivo.html</loc>
+  <lastmod>2019-06-12T17:45:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://lucafavano.com/portfolio-item-02.html</loc>
-  <lastmod>2019-06-09T21:18:46+00:00</lastmod>
+  <loc>http://lucafavano.com/lorenzo.html</loc>
+  <lastmod>2019-06-12T17:45:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://lucafavano.com/portfolio-item-03.html</loc>
-  <lastmod>2019-06-09T21:18:46+00:00</lastmod>
+  <loc>http://lucafavano.com/quadcopter.html</loc>
+  <lastmod>2019-06-12T17:45:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://lucafavano.com/portfolio-item-04.html</loc>
-  <lastmod>2019-06-09T21:18:46+00:00</lastmod>
+  <loc>http://lucafavano.com/bert.html</loc>
+  <lastmod>2019-06-12T17:45:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://lucafavano.com/portfolio-item-05.html</loc>
-  <lastmod>2019-06-09T21:18:46+00:00</lastmod>
+  <loc>http://lucafavano.com/careity.html</loc>
+  <lastmod>2019-06-12T17:45:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://lucafavano.com/portfolio-item-06.html</loc>
-  <lastmod>2019-06-09T21:18:46+00:00</lastmod>
+  <loc>http://lucafavano.com/holosam.html</loc>
+  <lastmod>2019-06-12T17:45:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://lucafavano.com/portfolio-item-07.html</loc>
-  <lastmod>2019-06-09T21:18:46+00:00</lastmod>
+  <loc>http://lucafavano.com/checkthat.html</loc>
+  <lastmod>2019-06-12T17:45:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://lucafavano.com/portfolio-item-08.html</loc>
-  <lastmod>2019-06-09T21:18:46+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://lucafavano.com/doc/CV-Luca-Favano.pdf</loc>
-  <lastmod>2019-06-09T21:18:46+00:00</lastmod>
+  <loc>http://lucafavano.com/speech-recognition.html</loc>
+  <lastmod>2019-06-12T17:45:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
