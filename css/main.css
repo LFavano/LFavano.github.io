@@ -1,3 +1,21 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@LFavano 
+0
+0 0 LFavano/LFavano.github.io Private
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Security  Insights  Settings
+LFavano.github.io/css/main.css
+@LFavano LFavano SEO improvement
+520c355 2 days ago
+2905 lines (2761 sloc)  75.5 KB
+    
 
 
 /* ----- 1.1 ELEMENTS ----- */   
@@ -163,7 +181,6 @@ dd:before {
 
 
 /*  --------------------------------------------
-
 	2. FORMS (@forms) - form elements
 	
     -------------------------------------------- */
@@ -309,7 +326,6 @@ label.error:after {
 
 
 /*  --------------------------------------------
-
 	3. COMMON (@common) - common and helper classes
 	
     -------------------------------------------- */
@@ -359,7 +375,6 @@ a.more-link,
 	}
 
 /*  --------------------------------------------
-
 	4. LAYOUT (@layout) : layout styles
 	
     -------------------------------------------- */
@@ -686,7 +701,6 @@ a.more-link,
 
 
 /*  --------------------------------------------
-
 	5. MODULES @modules : reusable styles
 	
     -------------------------------------------- */
@@ -2390,7 +2404,6 @@ a.more-link:hover {
 
 
 /*  --------------------------------------------
-
 	7. MEDIA QUERIES - responsive layouts
 	
     -------------------------------------------- */
@@ -2816,7 +2829,6 @@ a.more-link:hover {
 	
 	
 /*  --------------------------------------------
-
 	8. THEME - customize colors etc...
 	
     -------------------------------------------- */
@@ -2902,3 +2914,15 @@ a.more-link:hover,
 :-webkit-full-screen-ancestor:not(iframe) *:not(video) {
     animation: none; -webkit-animation: none;
     }
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
