@@ -1,10 +1,3 @@
-
-# ie prevent compatibility mode
-# http://www.validatethis.co.uk/news/fix-bad-value-x-ua-compatible-once-and-for-all/
-
-<FilesMatch "\.(htm|html|php)$">
-    <IfModule mod_headers.c>
-        BrowserMatch MSIE ie
-        Header set X-UA-Compatible "IE=Edge,chrome=1" env=ie
-    </IfModule>
-</FilesMatch>
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.lucafavano.com [NC]
+RewriteRule ^(.*)$ http://lucafavano.com/$1 [L,R=301]
