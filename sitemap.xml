@@ -8,64 +8,69 @@
 
 
 <url>
-  <loc>http://lucafavano.com/</loc>
-  <lastmod>2019-06-12T17:45:47+00:00</lastmod>
+  <loc>https://lucafavano.com/#/about</loc>
+  <lastmod>2019-06-15T10:55:23+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://lucafavano.com/#/about</loc>
-  <lastmod>2019-06-12T17:45:47+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
   <loc>https://lucafavano.com/#/resume</loc>
-  <lastmod>2019-06-12T17:45:47+00:00</lastmod>
-  <priority>0.90</priority>
+  <lastmod>2019-06-15T10:55:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://lucafavano.com/#/portfolio</loc>
-  <lastmod>2019-06-12T17:45:47+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
-  <loc>http://lucafavano.com/#/portfolio/sportivo.html</loc>
-  <lastmod>2019-06-12T17:45:47+00:00</lastmod>
+  <lastmod>2019-06-15T10:55:23+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://lucafavano.com/#/portfolio/lorenzo.html</loc>
-  <lastmod>2019-06-12T17:45:47+00:00</lastmod>
+  <loc>https://lucafavano.com/</loc>
+  <lastmod>2019-06-15T10:55:23+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://lucafavano.com/#/portfolio/quadcopter.html</loc>
-  <lastmod>2019-06-12T17:45:47+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://lucafavano.com/#/portfolio/cross-platform-mobile-app.html</loc>
+  <lastmod>2019-06-15T10:55:23+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://lucafavano.com/#/portfolio/bert.html</loc>
-  <lastmod>2019-06-12T17:45:47+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://lucafavano.com/#/portfolio/java-desktop-app.html</loc>
+  <lastmod>2019-06-15T10:55:23+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://lucafavano.com/#/portfolio/careity.html</loc>
-  <lastmod>2019-06-12T17:45:47+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://lucafavano.com/#/portfolio/computer-vision-and-quadcopters.html</loc>
+  <lastmod>2019-06-15T10:55:23+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://lucafavano.com/#/portfolio/holosam.html</loc>
-  <lastmod>2019-06-12T17:45:47+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://lucafavano.com/#/portfolio/language-models.html</loc>
+  <lastmod>2019-06-15T10:55:23+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://lucafavano.com/#/portfolio/checkthat.html</loc>
-  <lastmod>2019-06-12T17:45:47+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://lucafavano.com/#/portfolio/website-development.html</loc>
+  <lastmod>2019-06-15T10:55:23+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://lucafavano.com/#/portfolio/speech-recognition.html</loc>
-  <lastmod>2019-06-12T17:45:47+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://lucafavano.com/#/portfolio/mixed-reality-playground.html</loc>
+  <lastmod>2019-06-15T10:55:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://lucafavano.com/#/portfolio/fact-checking-competition.html</loc>
+  <lastmod>2019-06-15T10:55:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://lucafavano.com/#/portfolio/speech-recognition.html</loc>
+  <lastmod>2019-06-15T10:55:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://lucafavano.com/doc/CV-Luca-Favano-Website.pdf</loc>
+  <lastmod>2019-06-15T10:55:23+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
