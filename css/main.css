@@ -178,7 +178,10 @@ dd {
 dd:before {
  	content: "\f0a4"; font-size: 14px; margin-right: 12px; color: #B7C6C9;
 	}
-
+buttonscust {
+    display: block;
+    padding-bottom: 100px;
+}
 
 /*  --------------------------------------------
 	2. FORMS (@forms) - form elements
@@ -397,7 +400,11 @@ a.more-link,
 .content {
 	position: relative; padding: 1em 2em; margin: auto; width: 100%; text-align: left;
 	}
-
+.buttonscust{
+    display: block;
+    text-align: center;
+    padding-bottom: 20px;
+}
 
 
 .readable-content {
