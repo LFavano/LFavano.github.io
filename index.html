@@ -37,7 +37,6 @@
 
         <link rel="stylesheet" type="text/css" href="css/normalize.css">
         <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-        <link rel="stylesheet" type="text/css" href="js/nprogress/nprogress.css">
         <link rel="stylesheet" type="text/css" href="css/animate.css">
         <link rel="stylesheet" type="text/css" href="css/fonts/font-awesome/css/font-awesome.min.css">
         <link rel="stylesheet" type="text/css" href="css/fonts/fontello/css/fontello.css">
@@ -564,7 +563,7 @@
                             <div class="media-box">
                                 <img src="images/portfolio/azure-ml-studio.jpeg" alt="azure machine learning microsoft">
                                 <div class="mask"></div>
-                                <a href="https://github.com/LFavano/hol-azure-machine-learning" title="Microsoft Azure Repository" alt="Microsoft Azure Repository" target="_blank"></a>
+                                <a href="https://github.com/LFavano/hol-azure-machine-learning" rel="noreferrer" title="Microsoft Azure Repository" alt="Microsoft Azure Repository" target="_blank"></a>
                             </div>
                             <div class="media-cell-desc">
                                 <h3>Microsoft Azure</h3>
@@ -911,16 +910,14 @@
 					
 				</section>
                 <!-- PAGE : RESUME -->
-                
-                
-                
+
+                 
            	</div>
             <!-- WRAPPER -->
-            <div class="buttonscust">
+            <div id="buttonscust" class="buttonscust">
                 <a href="doc/CV-Luca-Favano-Website.pdf" alt="Curriculum Vitae" class="but brd ico white mt-10" download style="min-width: 280px; max-width: 300px; margin-left:10px; margin-right: 10px;"><i class="ic-download "></i>Download My CV</a>
                 <a href="https://www.linkedin.com/in/luca-favano/" alt="Curriculum Vitae" class="but brd ico white mt-10 ms-10" download download style="min-width: 280px; max-width: 300px; margin-left:10px; margin-right: 10px;"><i class="icon-linkedin "></i>Visit my Linkedin</a>
             </div>
-            
 		</div>
         <!-- CONTAINER -->
         
@@ -940,7 +937,6 @@
 		<script src="js/jquery-migrate-1.2.1.min.js"></script>
         <script src="js/jquery.address-1.5.min.js"></script>
         <script src="js/triple.layout.js"></script>
-        <script src="js/nprogress/nprogress.js"></script>
         <script src="js/fastclick.js"></script>
 		<script src="js/jquery.imagesloaded.min.js"></script>
         <script src="js/jquery.isotope.min.js"></script>
@@ -953,7 +949,17 @@
         <script src="js/classie.js"></script>
         <script src="js/main.js"></script>
 
-           
+        <script>
+         window.onload = function(){
+           setTimeout(loadAfterTime, 1500)
+        };
+
+
+        function loadAfterTime() { 
+            document.getElementById("buttonscust").setAttribute('style', "display: block");
+        }
+        </script>
+        
         
 	</body>
 </html>

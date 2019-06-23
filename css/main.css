@@ -400,8 +400,15 @@ a.more-link,
 .content {
 	position: relative; padding: 1em 2em; margin: auto; width: 100%; text-align: left;
 	}
+.page{
+    visibility: hidden;
+}
+.page.active{
+    visibility: visible;
+}
+
 .buttonscust{
-    display: block;
+    display: none;
     text-align: center;
     padding-bottom: 20px;
 }
@@ -552,12 +559,14 @@ a.more-link,
 	}
 .wrapper > section {
  	z-index: 1; min-height: 100%; margin: 0 auto; padding: 0 0 30px; width: 100%; background: #fff;
+    
 	}
 .vs-triplelayout .wrapper > section {
  	position: absolute; top: 0; left: 0%; margin: 0; visibility: hidden; -webkit-backface-visibility: hidden;
 	}
 .vs-triplelayout .wrapper > section:not(.vs-current) {
  	overflow: hidden; height: 100%;
+    
 	}
 .vs-triplelayout .wrapper .vs-left,
 .vs-triplelayout .wrapper .vs-left-outer,
