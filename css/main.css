@@ -1902,7 +1902,7 @@ a.button.colored {
  	content: "\f105"
 	}
 .portfolio-nav a.button.back {
- 	display: none; margin-left: 34px; border-width: 0; line-height: 70px; width: 70px; font-size: 16px; color: #fff; background: #5BCF80; border-radius: 50%;
+ 	display: inline-block; margin-left: 34px; border-width: 0; line-height: 70px; width: 70px; font-size: 16px; color: #fff; background: #5BCF80; border-radius: 50%;
 	}
 .portfolio-nav a.button.back:before {
  	display: inline; content: "\f00d"; font-size: 1em;
