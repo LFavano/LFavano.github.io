@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1058 736" width="1058" height="736">
+  <!-- Background -->
+  <rect width="1058" height="736" fill="#1a1a2e"/>
+
+  <!-- Connection lines -->
+  <line x1="529" y1="368" x2="264" y2="184" stroke="#4a90e2" stroke-width="3" opacity="0.6"/>
+  <line x1="529" y1="368" x2="794" y2="184" stroke="#4a90e2" stroke-width="3" opacity="0.6"/>
+  <line x1="529" y1="368" x2="264" y2="552" stroke="#4a90e2" stroke-width="3" opacity="0.6"/>
+  <line x1="529" y1="368" x2="794" y2="552" stroke="#4a90e2" stroke-width="3" opacity="0.6"/>
+  <line x1="264" y1="184" x2="794" y2="184" stroke="#4a90e2" stroke-width="2" opacity="0.4"/>
+  <line x1="264" y1="552" x2="794" y2="552" stroke="#4a90e2" stroke-width="2" opacity="0.4"/>
+  <line x1="264" y1="184" x2="794" y2="552" stroke="#4a90e2" stroke-width="2" opacity="0.3"/>
+  <line x1="794" y1="184" x2="264" y2="552" stroke="#4a90e2" stroke-width="2" opacity="0.3"/>
+
+  <!-- Outer nodes -->
+  <circle cx="264" cy="184" r="50" fill="#16213e" stroke="#e94560" stroke-width="3"/>
+  <circle cx="794" cy="184" r="50" fill="#16213e" stroke="#e94560" stroke-width="3"/>
+  <circle cx="264" cy="552" r="50" fill="#16213e" stroke="#e94560" stroke-width="3"/>
+  <circle cx="794" cy="552" r="50" fill="#16213e" stroke="#e94560" stroke-width="3"/>
+
+  <!-- Center node (larger) -->
+  <circle cx="529" cy="368" r="70" fill="#16213e" stroke="#00d4ff" stroke-width="4"/>
+
+  <!-- Node icons/symbols -->
+  <text x="529" y="385" font-family="Arial, sans-serif" font-size="45" fill="#00d4ff" text-anchor="middle" font-weight="bold">KG</text>
+
+  <!-- Document icons in outer nodes -->
+  <g transform="translate(241, 167)">
+    <rect width="24" height="28" rx="2" fill="#e94560"/>
+    <line x1="6" y1="9" x2="18" y2="9" stroke="#16213e" stroke-width="1.5"/>
+    <line x1="6" y1="15" x2="18" y2="15" stroke="#16213e" stroke-width="1.5"/>
+    <line x1="6" y1="21" x2="18" y2="21" stroke="#16213e" stroke-width="1.5"/>
+  </g>
+
+  <g transform="translate(771, 167)">
+    <rect width="24" height="28" rx="2" fill="#e94560"/>
+    <line x1="6" y1="9" x2="18" y2="9" stroke="#16213e" stroke-width="1.5"/>
+    <line x1="6" y1="15" x2="18" y2="15" stroke="#16213e" stroke-width="1.5"/>
+    <line x1="6" y1="21" x2="18" y2="21" stroke="#16213e" stroke-width="1.5"/>
+  </g>
+
+  <g transform="translate(241, 535)">
+    <rect width="24" height="28" rx="2" fill="#e94560"/>
+    <line x1="6" y1="9" x2="18" y2="9" stroke="#16213e" stroke-width="1.5"/>
+    <line x1="6" y1="15" x2="18" y2="15" stroke="#16213e" stroke-width="1.5"/>
+    <line x1="6" y1="21" x2="18" y2="21" stroke="#16213e" stroke-width="1.5"/>
+  </g>
+
+  <g transform="translate(771, 535)">
+    <rect width="24" height="28" rx="2" fill="#e94560"/>
+    <line x1="6" y1="9" x2="18" y2="9" stroke="#16213e" stroke-width="1.5"/>
+    <line x1="6" y1="15" x2="18" y2="15" stroke="#16213e" stroke-width="1.5"/>
+    <line x1="6" y1="21" x2="18" y2="21" stroke="#16213e" stroke-width="1.5"/>
+  </g>
+
+  <!-- Decorative particles -->
+  <circle cx="150" cy="120" r="3" fill="#4a90e2" opacity="0.7"/>
+  <circle cx="908" cy="150" r="4" fill="#4a90e2" opacity="0.5"/>
+  <circle cx="100" cy="490" r="3" fill="#00d4ff" opacity="0.6"/>
+  <circle cx="958" cy="550" r="3" fill="#00d4ff" opacity="0.7"/>
+  <circle cx="180" cy="368" r="2" fill="#e94560" opacity="0.8"/>
+  <circle cx="878" cy="368" r="2" fill="#e94560" opacity="0.8"/>
+  <circle cx="529" cy="100" r="2" fill="#4a90e2" opacity="0.6"/>
+  <circle cx="529" cy="636" r="2" fill="#4a90e2" opacity="0.6"/>
+</svg>
